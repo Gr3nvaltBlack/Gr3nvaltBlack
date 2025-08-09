@@ -53,3 +53,5 @@ Even though I'm a beginner, I'm gradually building my technical knowledge throug
 
 <h3>contact</h3>
 - 📫 9921@holbertonstudents.com
+
+![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=tokyonight)
