@@ -24,15 +24,39 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF6F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 <br>
+
+## 📂 Repositories
+
+Even though I'm a beginner, I'm gradually building my technical knowledge through different exercises, modules and challenges carried out as part of my training.
+
+### 🚀 Courses & Learning
+- 📟 **C Language – Strong Foundations & Advanced Concepts**
+  variables, pointers, memory management, recursion, binary trees.
+[holbertonschool-low_level_programming](https://github.com/Gr3nvaltBlack/holbertonschool-low_level_programming)
+
+- 🐍 **Python – Beginner Level and Guided Projects**
+  working with data structures, object-oriented programming, and building simple APIs.
+- 🗄 **SQL – Database Management**
+  queries, filters, joins, and data structuring.
+[holbertonschool-higher_level_programming](https://github.com/Gr3nvaltBlack/holbertonschool-higher_level_programming)
+
+- 🌐 HTML, CSS, JavaScript – Interactive Front-End: building web pages, advanced styling, and adding dynamic features (e.g., random wheel).
+[holbertonschool-web_front_end](https://github.com/Gr3nvaltBlack/holbertonschool-web_front_end)
+
+
+
+
+
+
+
 
 ## 📊 GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=tokyonight)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3nvaltBlack&layout=compact&theme=tokyonight)
 
 
-<p align="right">
-  <h3>contact</h3>
-  - 📫 9921@holbertonstudents.com
-</p>
+<h3>contact</h3>
+- 📫 9921@holbertonstudents.com
 
