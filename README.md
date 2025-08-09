@@ -53,8 +53,3 @@ Even though I'm a beginner, I'm gradually building my technical knowledge throug
 
 <h3>contact</h3>
 - 📫 9921@holbertonstudents.com
-
-
-
-
-![Snake animation](https://github.com/Gr3nvaltBlack/Gr3nvaltBlack/blob/output/github-contribution-grid-snake.svg)
