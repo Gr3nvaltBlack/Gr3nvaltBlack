@@ -47,8 +47,8 @@ Even though I'm a beginner, I'm gradually building my technical knowledge throug
 
 
 ## 📊 GitHub Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=synthwave)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3nvaltBlack&layout=compact&theme=synthwave)
+![My stats](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=highcontrast)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3nvaltBlack&layout=compact&theme=highcontrast)
 
 
 <h3>contact</h3>
