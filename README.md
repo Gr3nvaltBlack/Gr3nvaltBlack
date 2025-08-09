@@ -45,6 +45,7 @@ Even though I'm a beginner, I'm gradually building my technical knowledge throug
 - 🌐 HTML, CSS, JavaScript – Interactive Front-End: building web pages, advanced styling, and adding dynamic features (e.g., random wheel).<br>
 [holbertonschool-web_front_end](https://github.com/Gr3nvaltBlack/holbertonschool-web_front_end)
 
+<br>
 
 ## 📊 GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=highcontrast)
