@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm LENTZ</h1>
 
 <p align="left"> Always on the move in the world 🌍 of development, driven by an insatiable curiosity and a passion for learning new technologies, solving challenges, and creating solutions.</p>
-
+</hr>
 
 ## 🛠️ Technical Skills
 
