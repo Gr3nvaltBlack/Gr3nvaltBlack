@@ -39,10 +39,10 @@ Even though I'm a beginner, I'm gradually building my technical knowledge throug
 - 🐍 **Python – Beginner Level and Guided Projects**
   working with data structures, object-oriented programming, and building simple APIs.
 - 🗄 **SQL – Database Management**
-  queries, filters, joins, and data structuring.
+  queries, filters, joins, and data structuring.<br>
 [holbertonschool-higher_level_programming](https://github.com/Gr3nvaltBlack/holbertonschool-higher_level_programming)
 
-- 🌐 HTML, CSS, JavaScript – Interactive Front-End: building web pages, advanced styling, and adding dynamic features (e.g., random wheel).
+- 🌐 HTML, CSS, JavaScript – Interactive Front-End: building web pages, advanced styling, and adding dynamic features (e.g., random wheel).<br>
 [holbertonschool-web_front_end](https://github.com/Gr3nvaltBlack/holbertonschool-web_front_end)
 
 
