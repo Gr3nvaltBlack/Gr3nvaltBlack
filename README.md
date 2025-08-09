@@ -46,12 +46,6 @@ Even though I'm a beginner, I'm gradually building my technical knowledge throug
 [holbertonschool-web_front_end](https://github.com/Gr3nvaltBlack/holbertonschool-web_front_end)
 
 
-
-
-
-
-
-
 ## 📊 GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=tokyonight)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3nvaltBlack&layout=compact&theme=tokyonight)
@@ -60,3 +54,7 @@ Even though I'm a beginner, I'm gradually building my technical knowledge throug
 <h3>contact</h3>
 - 📫 9921@holbertonstudents.com
 
+
+
+
+![Snake animation](https://github.com/Gr3nvaltBlack/Gr3nvaltBlack/blob/output/github-contribution-grid-snake.svg)
