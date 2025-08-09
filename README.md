@@ -31,7 +31,8 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3nvaltBlack&layout=compact&theme=tokyonight)
 
 
-<ul align="right"><h4>contact</h4>
-  <li align="right">📫 9921@holbertonstudents.com</li>
-</ul>
+<p align="right">
+  <h3>contact</h3>
+  - 📫 9921@holbertonstudents.com
+</p>
 
