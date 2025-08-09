@@ -25,7 +25,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF6F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-
+<br>
 
 
 
@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **9921@holbertonstudents.com** 
 
-
+<br>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=tokyonight)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3nvaltBlack&layout=compact&theme=tokyonight)
