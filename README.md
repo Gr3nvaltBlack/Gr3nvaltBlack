@@ -24,8 +24,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF6F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-
+<br>
 
 ## 📊 GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=tokyonight)
@@ -33,6 +32,6 @@
 
 
 <ul align="right"><h4>contact</h4>
-  <li>📫 **9921@holbertonstudents.com**</li>
+  <li align="right">📫 9921@holbertonstudents.com</li>
 </ul>
 
