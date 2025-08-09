@@ -47,11 +47,10 @@ Even though I'm a beginner, I'm gradually building my technical knowledge throug
 
 
 ## 📊 GitHub Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=tokyonight)
+![My stats](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=gruvbox)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3nvaltBlack&layout=compact&theme=tokyonight)
 
 
 <h3>contact</h3>
 - 📫 9921@holbertonstudents.com
 
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Gr3nvaltBlack&show_icons=true&theme=tokyonight)
